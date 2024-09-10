@@ -1,8 +1,8 @@
 {
     "ver": "1.0",
     "se": {
+        "4":{"url":"https://github.com/ianw-qq/ninase/blob/main/SE2/ex_naki.wav"},
         "8":{"url":"https://github.com/ianw-qq/ninase/blob/main/SE2/ex_finish.wav"},
-        "8":{"url":"https://github.com/ianw-qq/ninase/blob/main/SE2/ex_naki.wav"},
         "26":{"url":"https://github.com/ianw-qq/ninase/blob/main/SE2/pon.wav"},
         "28":{"url":"https://github.com/ianw-qq/ninase/blob/main/SE2/kan.wav"},
         "30":{"url":"https://github.com/ianw-qq/ninase/blob/main/SE2/chii.wav"},
