@@ -1,14 +1,14 @@
 {
     "ver": "1.0",
     "se": {
-        "4":{"url":"https://raw.githubusercontent.com/ianw-qq/pleasedontpirateherethisistheonlywayicanthinkofdoingthis/main/se/ex_naki.wav"},
-        "8":{"url":"https://raw.githubusercontent.com/ianw-qq/pleasedontpirateherethisistheonlywayicanthinkofdoingthis/main/se/ex_finish.wav"},
-        "26":{"url":"https://raw.githubusercontent.com/ianw-qq/pleasedontpirateherethisistheonlywayicanthinkofdoingthis/main/se/pon.wav"},
-        "28":{"url":"https://raw.githubusercontent.com/ianw-qq/pleasedontpirateherethisistheonlywayicanthinkofdoingthis/main/se/kan.wav"},
-        "30":{"url":"https://raw.githubusercontent.com/ianw-qq/pleasedontpirateherethisistheonlywayicanthinkofdoingthis/main/se/chii.wav"},
-        "32":{"url":"https://raw.githubusercontent.com/ianw-qq/pleasedontpirateherethisistheonlywayicanthinkofdoingthis/main/se/riichi.wav"},
-        "34":{"url":"https://raw.githubusercontent.com/ianw-qq/pleasedontpirateherethisistheonlywayicanthinkofdoingthis/main/se/ron.wav"},
-        "36":{"url":"https://raw.githubusercontent.com/ianw-qq/pleasedontpirateherethisistheonlywayicanthinkofdoingthis/main/se/tumo.wav"},
-        "40":{"url":"https://raw.githubusercontent.com/ianw-qq/pleasedontpirateherethisistheonlywayicanthinkofdoingthis/main/se/ex_start.wav"}
+        "4":{"url":"https://raw.githubusercontent.com/ianw-qq/pleasedontpirateherethisistheonlywayicanthinkofdoingthis/main/SE2/ex_naki.wav"},
+        "8":{"url":"https://raw.githubusercontent.com/ianw-qq/pleasedontpirateherethisistheonlywayicanthinkofdoingthis/main/SE2/ex_finish.wav"},
+        "26":{"url":"https://raw.githubusercontent.com/ianw-qq/pleasedontpirateherethisistheonlywayicanthinkofdoingthis/main/SE2/pon.wav"},
+        "28":{"url":"https://raw.githubusercontent.com/ianw-qq/pleasedontpirateherethisistheonlywayicanthinkofdoingthis/main/SE2/kan.wav"},
+        "30":{"url":"https://raw.githubusercontent.com/ianw-qq/pleasedontpirateherethisistheonlywayicanthinkofdoingthis/main/SE2/chii.wav"},
+        "32":{"url":"https://raw.githubusercontent.com/ianw-qq/pleasedontpirateherethisistheonlywayicanthinkofdoingthis/main/SE2/riichi.wav"},
+        "34":{"url":"https://raw.githubusercontent.com/ianw-qq/pleasedontpirateherethisistheonlywayicanthinkofdoingthis/main/SE2/ron.wav"},
+        "36":{"url":"https://raw.githubusercontent.com/ianw-qq/pleasedontpirateherethisistheonlywayicanthinkofdoingthis/main/SE2/tumo.wav"},
+        "40":{"url":"https://raw.githubusercontent.com/ianw-qq/pleasedontpirateherethisistheonlywayicanthinkofdoingthis/main/SE2/ex_start.wav"}
     }
 }
